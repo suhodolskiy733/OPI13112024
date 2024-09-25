@@ -1,0 +1,23 @@
+[33mcommit 533af7c5d6d45832e87c73047de820664151034d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Serhii <suhodolskiy733@gmail.com>
+Date:   Sat Sep 21 09:16:58 2024 +0200
+
+    Четвертий коміт: додано новий файл
+
+[33mcommit cd6efa41bcc2f7168c8519ff74051ffa0de4ec8f[m
+Author: Serhii <suhodolskiy733@gmail.com>
+Date:   Sat Sep 21 09:16:32 2024 +0200
+
+    Третій коміт: змінено вміст file.txt
+
+[33mcommit 7a845216fded34be773e006dc5efe126040baffb[m
+Author: Serhii <suhodolskiy733@gmail.com>
+Date:   Sat Sep 21 09:13:25 2024 +0200
+
+    Другий коміт: додано текст до file.txt
+
+[33mcommit 5ee728ec1a20d65847cd7b66be7b79caf255a7c5[m
+Author: Serhii <suhodolskiy733@gmail.com>
+Date:   Sat Sep 21 09:11:03 2024 +0200
+
+    Перший коміт: створено порожній файл
