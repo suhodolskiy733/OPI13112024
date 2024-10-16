@@ -1,1 +1,1 @@
-Новий файл
+Hello, new branch!
